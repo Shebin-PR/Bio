@@ -5,10 +5,12 @@
 </p>
 
 ## :sassy_man:  About me
-- :technologist: A passionate `Self-Learner`
 - :student: I’m currently Focusing : `Flutter` and `DART`.
-- 👨‍💻 Personal Website [https://shebin-pr.github.io/Shebin-PR/](https://shebin-pr.github.io/Shebin-PR/)
+- 💬 Ask me about **Flutter, Dart, Hive, Firebase, GIT, HTML, CSS, C, Java**
+- ⚡Soft Skills **I'm a Self Learner with good communication skills**
 - 📫 How to reach me: shebinpr126@gmail.com
+- 👨‍💻 Personal Website [https://shebin-pr.github.io/Shebin_PR/](https://shebin-pr.github.io/Shebin_PR/)
+- 📄 Know about my experiences [https://drive.google.com/file/d/16aeGF_c6AHTPLXiwUOGmv91m_uv2a0UG/view?usp=sharing](https://drive.google.com/file/d/16aeGF_c6AHTPLXiwUOGmv91m_uv2a0UG/view?usp=sharing)
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
