@@ -10,7 +10,7 @@
 - ⚡Soft Skills **I'm a Self Learner with good communication skills**
 - 📫 How to reach me: shebinpr126@gmail.com
 - 👨‍💻 Personal Website [https://shebin-pr.github.io/Shebin_PR/](https://shebin-pr.github.io/Shebin_PR/)
-- 📄 Know about my experiences [https://drive.google.com/file/d/16aeGF_c6AHTPLXiwUOGmv91m_uv2a0UG/view?usp=sharing](https://drive.google.com/file/d/16aeGF_c6AHTPLXiwUOGmv91m_uv2a0UG/view?usp=sharing)
+- 📄 Know about my experiences [resume](https://bit.ly/3yZ9wM0)
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
